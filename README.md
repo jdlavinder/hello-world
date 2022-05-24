@@ -1,3 +1,3 @@
 # hello-world
 I am learning how to use GitHub
-I'm studying C++
+I'm studying Computer Science
